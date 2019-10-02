@@ -1,4 +1,5 @@
 <?php
+  //php comment
   session_start();
 ?>
 <!DOCTYPE html>

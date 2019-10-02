@@ -1,6 +1,7 @@
 <HTML>
 <body background="./bg.jpg" text=#FFFFFF><div>
 <?php
+//php
 $name=$_POST['name'];
 
 $link = mysqli_connect("localhost", "id5213884_root", "ABCD1234", "id5213884_gecskp");

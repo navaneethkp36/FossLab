@@ -1,4 +1,5 @@
 <?php
+  //php comment
   require 'dbconfig/config.php';
 ?>
 <!DOCTYPE html>
